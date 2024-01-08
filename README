@@ -5,7 +5,9 @@ cd client
 npm install
 npm start
 
+in another terminal
 backend: springBoot java framework
+cd server
 start the servelet
 
 make sure to start backend before frontend
