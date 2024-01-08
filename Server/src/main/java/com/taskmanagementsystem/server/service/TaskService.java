@@ -1,7 +1,6 @@
 package com.taskmanagementsystem.server.service;
 
 import com.taskmanagementsystem.server.payloads.TaskDto;
-import com.taskmanagementsystem.server.payloads.UserDto;
 
 import java.util.List;
 

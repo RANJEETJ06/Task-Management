@@ -2,11 +2,9 @@ package com.taskmanagementsystem.server.controllers;
 
 
 import com.taskmanagementsystem.server.entities.User;
-import com.taskmanagementsystem.server.exception.ResourcesNotFoundException;
 import com.taskmanagementsystem.server.payloads.ApiResponse;
 import com.taskmanagementsystem.server.payloads.SignInRequest;
 import com.taskmanagementsystem.server.payloads.UserDto;
-import com.taskmanagementsystem.server.service.TaskService;
 import com.taskmanagementsystem.server.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
