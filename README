@@ -1,0 +1,11 @@
+Task Management System
+
+FrontEnd: React Js 
+cd client
+npm install
+npm start
+
+backend: springBoot java framework
+start the servelet
+
+make sure to start backend before frontend
